@@ -1,0 +1,4 @@
+Place CitizenScience folder in sites/default/files/games/
+Edit content/settings.xml, change drupalService/url to point to http://<url of site>/services/amfphp
+
+kevin@learninggamesnetwork
